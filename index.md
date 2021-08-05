@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Set up of CI/CD Pipeline for a Maven Project](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Developed a CI/CD Pipeline for a node application](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Deployment of a complete stack using Terraform](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
