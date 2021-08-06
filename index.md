@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Deployment of a complete stack using Terraform](http://example.com/)
+[Deployment of a complete stack using Terraform](https://github.com/dammy092002/Deployment-of-web-stack-using-Terraform)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
