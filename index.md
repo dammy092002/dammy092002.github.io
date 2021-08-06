@@ -5,7 +5,7 @@
 ### Projects 
 
 [Set up of CI/CD Pipeline for a Maven Project](/sample_page)
-<img src="images/cicd.jpg?raw=true"/>
+<img src="images/ci-cd.jpg?raw=true"/>
 
 ---
 [Developed a CI/CD Pipeline for a node application](/pdf/sample_presentation.pdf)
