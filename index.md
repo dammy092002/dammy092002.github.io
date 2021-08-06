@@ -17,7 +17,7 @@
 
 ---
 
-[Deployment of a HA WebApp using CloudFormation](http://example.com/)
+[Deployment of a HA WebApp using CloudFormation](https://github.com/dammy092002/CloudFormation-Deployment-of-a-Webapp-Project)
 <img src="images/WebApp.png?raw=true"/>
 
 ---
