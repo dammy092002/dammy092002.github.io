@@ -6,6 +6,7 @@
 
 [Set up of CI/CD Pipeline for a Maven Project](/sample_page)
 <img src="images/ci-cd1.jpg?raw=true"/>
+<img src="images/ci-cd2.jpg?raw=true"/>
 
 ---
 [Developed a CI/CD Pipeline for a node application](/pdf/sample_presentation.pdf)
